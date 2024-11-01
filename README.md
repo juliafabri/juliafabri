@@ -1,1 +1,1 @@
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=juliafabri&count={count})
+(https://spotify-recently-played-readme.vercel.app/api?user=juliafabri&count={count})
